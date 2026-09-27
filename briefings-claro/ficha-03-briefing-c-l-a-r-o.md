@@ -13,7 +13,7 @@ Você não escreve um comando. Você escreve um briefing, como faria para um est
 - **C · Contexto e cliente:** que negócio é, em que situação está, para quem fala, em que etapa do caminho de compra o cliente está.
 - **L · Limites:** o que a IA não pode fazer: inventar preço, prazo, depoimento, número ou promessa; usar dado pessoal; mudar o tom. É a letra que mais falta.
 - **A · Ação:** a tarefa, em uma frase, com o resultado esperado: três ideias, uma pauta, cinco títulos, um resumo.
-- **R · Referências e regras:** os fatos que a IA pode usar: dados fornecidos, exemplos aprovados, critérios, canais. O que estiver fora daqui ela deve pedir, e não inventar.
+- **R · Referências e regras:** os fatos que a IA pode usar: dados fornecidos, exemplos aprovados, critérios, canais. O que estiver fora daqui ela pede antes de responder.
 - **O · Organização e olhar humano:** o formato da saída, e o pedido de listar ao fim tudo que precisa de verificação por uma pessoa.
 
 ## 2. Assim não, assim sim

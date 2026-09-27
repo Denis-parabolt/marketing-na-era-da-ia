@@ -12,7 +12,7 @@ norma ou por reclamação de cliente.
 
 ## A situação
 
-A empresa depende de indicação e da memória dos vendedores. O site descreve produtos e não ajuda o cliente a
+A empresa depende de indicação e da memória dos vendedores. O site descreve produtos sem ajudar o cliente a
 reconhecer o problema nem a comparar alternativas. Os contatos de campanha entram em planilhas diferentes,
 e o marketing não recebe retorno sobre proposta, fechamento ou margem. Quando um vendedor sai, a carteira
 sai junto.

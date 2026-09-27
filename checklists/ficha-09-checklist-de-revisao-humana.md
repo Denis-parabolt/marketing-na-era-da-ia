@@ -21,7 +21,7 @@ Oito perguntas antes de qualquer saída de IA virar post, anúncio, resposta ou 
 
 ## 2. O registro do que mudou
 
-Três linhas por peça. O registro é o que transforma o uso de IA em aprendizado do negócio, em vez de sorte repetida.
+Três linhas por peça. O registro é o que transforma o uso de IA em aprendizado do negócio; sem ele, é sorte repetida.
 
 | O que a IA escreveu | O que você trocou | Por quê |
 |---|---|---|

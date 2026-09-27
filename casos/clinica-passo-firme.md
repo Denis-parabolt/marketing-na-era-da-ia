@@ -12,7 +12,7 @@ recorrente que já tentou resolver sozinha e procura a clínica quando a dor atr
 
 Chegam muitos contatos. Perto de 40% procuram serviço que a clínica não oferece, boa parte não responde ao
 retorno, e um em cada quatro agendamentos não comparece. A campanha atual mede envio de formulário como
-sucesso, então a plataforma aprende a trazer mais formulário e não mais paciente. O conteúdo fala de
+sucesso, então a plataforma aprende a trazer mais formulário, com paciente de menos. O conteúdo fala de
 equipamento e tecnologia; quase nada explica o processo, quem atende, o preparo para a primeira sessão ou o
 que muda depois de dez sessões.
 

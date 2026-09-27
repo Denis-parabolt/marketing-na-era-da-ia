@@ -27,7 +27,7 @@ A campanha nasce do objetivo e da conversão, e só depois chega ao anúncio. De
 
 ## 2. O briefing do seu negócio
 
-1. Comece pelo objetivo e pela conversão. Se a conversão for clique, volte: clique mede a plataforma, e não o negócio.
+1. Comece pelo objetivo e pela conversão. Se a conversão for clique, volte: clique mede a plataforma; o negócio fica fora da conta.
 2. Escolha o canal pela intenção: busca para quem já procura, rede social para quem ainda não sabe que precisa.
 3. Confira a capacidade antes do orçamento. Campanha que traz mais do que a operação atende gera cliente mal atendido.
 

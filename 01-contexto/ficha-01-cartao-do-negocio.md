@@ -12,7 +12,7 @@ O seu, ou um dos quatro arquétipos do curso. Cinco respostas curtas, e um únic
 
 1. Escreva o que o negócio vende e para quem, do jeito que um cliente explicaria a um amigo.
 2. Corte adjetivo. **Qualidade**, **diferenciado** e **completo** saem, porque todo concorrente escreve o mesmo.
-3. Leia em voz alta. Se a frase serve para o concorrente da esquina, ela ainda descreve o setor, e não o negócio.
+3. Leia em voz alta. Se a frase serve para o concorrente da esquina, ela ainda descreve o setor; o negócio ficou de fora.
 
 **Exemplo resolvido · uma oficina mecânica de bairro**
 

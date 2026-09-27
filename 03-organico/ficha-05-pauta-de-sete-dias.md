@@ -18,7 +18,7 @@ Todo conteúdo do negócio cabe em um destes quatro papéis. Pauta boa alterna e
 |---|---|---|
 | Utilidade | Ajuda o cliente a decidir ou resolver | Como saber se a luz do painel é urgente ou pode esperar até segunda |
 | Prova | Reduz o risco e aumenta a confiança | A foto do laudo desta semana, com a peça antiga ao lado da nova |
-| Identidade | Torna o negócio reconhecível | Por que a oficina fecha às 18h em ponto e não pega serviço de sábado |
+| Identidade | Torna o negócio reconhecível | Por que a oficina fecha às 18h em ponto e recusa serviço de sábado |
 | Ação | Convida para o próximo passo | Revisão de 40 itens: mande a placa e o quilômetro que a gente responde com o prazo |
 
 ## 2. As três dúvidas reais do cliente
@@ -43,7 +43,7 @@ ____________________________________________________________
 
 ## 3. A pauta
 
-Sete linhas, quatro pilares, uma ação por linha. Canal é onde o cliente está, e não onde a moda está.
+Sete linhas, quatro pilares, uma ação por linha. Canal é onde o cliente está; a moda do momento fica de fora.
 
 | Dia | Pilar | Ideia | Canal | Ação pedida |
 |---|---|---|---|---|

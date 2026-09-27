@@ -10,7 +10,7 @@ Para quem, o que a marca promete, com que prova, com que voz, e o que ela decide
 
 ## 1. Para quem, e o que essa pessoa ganha
 
-A proposição de valor responde por que o cliente escolhe você e não o outro (Kotler e Armstrong, 2015, p. 231 a 233). Escreva o ganho na vida do cliente, e não a lista do que você faz.
+A proposição de valor responde por que o cliente escolhe você entre os concorrentes (Kotler e Armstrong, 2015, p. 231 a 233). Escreva o ganho na vida do cliente; a lista do que você faz fica para depois.
 
 **Para quem**
 
