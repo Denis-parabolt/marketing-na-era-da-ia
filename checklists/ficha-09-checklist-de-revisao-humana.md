@@ -29,6 +29,10 @@ Três linhas por peça. O registro é o que transforma o uso de IA em aprendizad
 |   |   |   |
 |   |   |   |
 
+**Quem revisou e assume o que vai sair, e quando**
+
+____________________________________________________________
+
 > **Dica:** Quando a mesma troca aparece três vezes, ela vira uma linha nova no L de Limites do seu briefing, e a IA para de errar aquilo.
 
 ---

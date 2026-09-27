@@ -39,6 +39,18 @@ Troque a folha com quem está ao lado. Quem revisa marca cada critério, e devol
 - [ ] O anúncio, o destino e o preço contam a mesma oferta.
 - [ ] Nenhum dado pessoal e nenhum atributo sensível entrou no briefing nem no anúncio.
 
+**A pergunta que devolvi no ângulo do problema**
+
+____________________________________________________________
+
+**A pergunta que devolvi no ângulo da prova**
+
+____________________________________________________________
+
+**A pergunta que devolvi no ângulo da ocasião**
+
+____________________________________________________________
+
 ---
 
 **Grave isto:** Três ângulos testam três hipóteses. Três sinônimos testam nada.

@@ -24,7 +24,7 @@ KOTLER, Philip; KARTAJAYA, Hermawan; SETIAWAN, Iwan. *Marketing 6.0: the future 
 Wiley, 2024. ISBN 9781119835219. Citado no curso: cap. 1, p. 3 a 24, com a definição de metamarketing na p. 24.
 
 KOTLER, Philip; KARTAJAYA, Hermawan; SETIAWAN, Iwan. *Marketing 7.0: a guide for thinking marketers in the
-age of AI*. Hoboken: Wiley, 2026. ISBN 9781394329861. Citado no curso: cap. 3, p. 45 (as obsessões por desempenho e por IA); cap. 4, p. 65 (humanos aumentados); cap. 7, p. 133 (narrativa da marca); Parte 3, p. 131 em diante (as quatro entregas).
+age of AI*. Hoboken: Wiley, 2026. ISBN 9781394329861. Citado no curso: cap. 3, p. 45 a 64 (as obsessões por desempenho e por IA; a frase sobre autenticidade na p. 52); cap. 4, p. 65 (humanos aumentados); cap. 5, p. 92 (a bússola cognitiva e os quatro quadrantes de estímulo); cap. 7, p. 133 (narrativa da marca).
 
 ## Páginas oficiais de plataforma
 
@@ -96,9 +96,9 @@ Acesso em: 4 set. 2026.
 MURRAY, Conor. *Jaguar rebrand sparks online confusion and anti-'woke' criticism*. Forbes, 20 nov. 2024.
 Acesso em: 8 ago. 2026.
 
-META. Anúncio de ferramentas de criativo com IA generativa em Advantage+, Cannes Lions, 23 jun. 2026.
-Reportado por veículos de mercado; página oficial a confirmar no Business Help Center antes de citar
-número.
+META FOR BUSINESS. *Cannes Lions 2026: crossing the AI threshold*. 23 jun. 2026. Disponível em:
+https://www.facebook.com/business/news/cannes-2026-cross-ai-threshold. Acesso em: 27 set. 2026. Memória de
+marca e fluxo de aprovação de criativo em teste, sem número de resultado publicado.
 
 ## Proteção de dados e uso responsável
 

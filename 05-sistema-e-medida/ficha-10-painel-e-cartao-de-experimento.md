@@ -64,6 +64,14 @@ Peça o resumo, peça o padrão, peça a pergunta que você não fez. Três regr
 2. Dado que faltou continua faltando. Ausência nunca vira zero.
 3. Padrão não é causa. A IA aponta que duas coisas subiram juntas; quem diz que uma causou a outra é um teste, com desenho.
 
+**A primeira leitura de resultado · data, o que os números disseram, o que não disseram**
+
+____________________________________________________________
+
+**A decisão tomada · manter, ajustar ou interromper, e por quê**
+
+____________________________________________________________
+
 ---
 
 **Grave isto:** Indicador que não muda uma decisão é decoração.
