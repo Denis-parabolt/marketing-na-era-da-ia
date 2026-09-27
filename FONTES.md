@@ -14,17 +14,17 @@ valor e declaração de posicionamento).
 KOTLER, Philip; KARTAJAYA, Hermawan; SETIAWAN, Iwan. *Marketing 3.0: as forças que estão definindo o novo
 marketing centrado no ser humano*. Rio de Janeiro: Elsevier, 2010.
 
-KOTLER, Philip; KARTAJAYA, Hermawan; SETIAWAN, Iwan. *Marketing 4.0: do tradicional ao digital*. Rio de
-Janeiro: Sextante, 2017.
+KOTLER, Philip; KARTAJAYA, Hermawan; SETIAWAN, Iwan. *Marketing 4.0: moving from traditional to digital*.
+Hoboken: Wiley, 2017. Citado no curso: cap. 5, p. 57 a 69, os cinco As na p. 62.
 
-KOTLER, Philip; KARTAJAYA, Hermawan; SETIAWAN, Iwan. *Marketing 5.0: technology for humanity*. Hoboken:
-Wiley, 2021.
+KOTLER, Philip; KARTAJAYA, Hermawan; SETIAWAN, Iwan. *Marketing 5.0: tecnologia para a humanidade*. Tradução
+de André Fontenelle. Rio de Janeiro: Sextante, 2021. E-book. Citado no curso: cap. 1, os cinco componentes.
 
 KOTLER, Philip; KARTAJAYA, Hermawan; SETIAWAN, Iwan. *Marketing 6.0: the future is immersive*. Hoboken:
-Wiley, 2023. ISBN 9781119835219.
+Wiley, 2024. ISBN 9781119835219. Citado no curso: cap. 1, p. 3 a 24, com a definição de metamarketing na p. 24.
 
 KOTLER, Philip; KARTAJAYA, Hermawan; SETIAWAN, Iwan. *Marketing 7.0: a guide for thinking marketers in the
-age of AI*. Hoboken: Wiley, 2026. ISBN 9781394329861.
+age of AI*. Hoboken: Wiley, 2026. ISBN 9781394329861. Citado no curso: cap. 3, p. 45 (as obsessões por desempenho e por IA); cap. 4, p. 65 (humanos aumentados); cap. 7, p. 133 (narrativa da marca); Parte 3, p. 131 em diante (as quatro entregas).
 
 ## Páginas oficiais de plataforma
 
