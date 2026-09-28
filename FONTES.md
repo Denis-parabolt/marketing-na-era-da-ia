@@ -84,8 +84,14 @@ publicado por Luis von Ahn no LinkedIn em 28 abr. 2025, e esclarecimento em mai.
 
 DUOLINGO. *Carta ao acionista do segundo trimestre de 2026*. 5 ago. 2026.
 
+DUOLINGO. *Practice Speaking with Video Call*. Vídeo, 34 s. Canal oficial no YouTube, 24 set. 2024. Disponível em:
+https://www.youtube.com/watch?v=vBjfn2Pb6DI. Acesso em 28 set. 2026. Exibido no deck como fundo de slide, sem som.
+
 SPOTIFY. *Investor Day 2026 recap*. 21 mai. 2026. Disponível em:
 https://newsroom.spotify.com/2026-05-21/investor-day-recap/. Acesso em: 24 ago. 2026.
+
+SPOTIFY. *Your Favourite Artists reveal Spotify 2025 Wrapped*. Vídeo, 2 min 46 s. Canal oficial no YouTube, 3 dez. 2025.
+Disponível em: https://www.youtube.com/watch?v=YlxlsQVLw3E. Acesso em 28 set. 2026. Exibido no deck como fundo de slide, sem som.
 
 MAGAZINE LUIZA. *Divulgação de resultados do segundo trimestre de 2026*. 6 ago. 2026. Números reportados
 por InfoMoney, Poder360 e Suno em 6 e 7 ago. 2026. Vídeo *Compra com a Lu!*, Canal da Lu no YouTube.
@@ -93,8 +99,14 @@ por InfoMoney, Poder360 e Suno em 6 e 7 ago. 2026. Vídeo *Compra com a Lu!*, Ca
 NETFLIX TECHNOLOGY BLOG. *Selecting the best artwork for videos through A/B testing*. 3 mai. 2016.
 Acesso em: 4 set. 2026.
 
+WEARENETFLIX. *Promo Artwork User Story*. Vídeo, 3 min 49 s. Canal oficial de carreiras da Netflix no YouTube, 5 abr. 2022.
+Disponível em: https://www.youtube.com/watch?v=hLLI58OlYgI. Acesso em 28 set. 2026. Exibido no deck como fundo de slide, sem som.
+
 MURRAY, Conor. *Jaguar rebrand sparks online confusion and anti-'woke' criticism*. Forbes, 20 nov. 2024.
 Acesso em: 8 ago. 2026.
+
+JAGUAR. *Jaguar Type 00 | An Original Work of Art*. Vídeo, 1 min 04 s. Canal oficial no YouTube, 4 dez. 2024. Disponível em:
+https://www.youtube.com/watch?v=B1TLhzmieVg. Acesso em 28 set. 2026. Exibido no deck como fundo do slide de reserva, com som.
 
 META FOR BUSINESS. *Cannes Lions 2026: crossing the AI threshold*. 23 jun. 2026. Disponível em:
 https://www.facebook.com/business/news/cannes-2026-cross-ai-threshold. Acesso em: 27 set. 2026. Memória de
