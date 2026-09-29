@@ -102,11 +102,32 @@ Acesso em: 4 set. 2026.
 WEARENETFLIX. *Promo Artwork User Story*. Vídeo, 3 min 49 s. Canal oficial de carreiras da Netflix no YouTube, 5 abr. 2022.
 Disponível em: https://www.youtube.com/watch?v=hLLI58OlYgI. Acesso em 28 set. 2026. Exibido no deck como fundo de slide, sem som.
 
-MURRAY, Conor. *Jaguar rebrand sparks online confusion and anti-'woke' criticism*. Forbes, 20 nov. 2024.
-Acesso em: 8 ago. 2026.
+GOOGLE. *Google Inc. announces fourth quarter and fiscal year 2011 results*. Form 8-K, SEC, 19 jan. 2012. Disponível em:
+https://www.sec.gov/Archives/edgar/data/0001288776/000119312512017008/d285258dex991.htm. Acesso em: 28 set. 2026.
+Os 90 milhões de usuários do Google+ na fala de Larry Page.
 
-JAGUAR. *Jaguar Type 00 | An Original Work of Art*. Vídeo, 1 min 04 s. Canal oficial no YouTube, 4 dez. 2024. Disponível em:
-https://www.youtube.com/watch?v=B1TLhzmieVg. Acesso em 28 set. 2026. Exibido no deck como fundo do slide de reserva, com som.
+GUNDOTRA, Vic. *Google+ Hangouts and Photos: save some time, share your story*. Official Google Blog, 29 out. 2013.
+Disponível em: https://blog.google/products/hangouts/google-hangouts-and-photos-save-some/. Acesso em: 28 set. 2026.
+Os 540 milhões "ativos no Google" e os 300 milhões "no feed".
+
+SMITH, Ben. *Project Strobe: protecting your data, improving our third-party APIs, and sunsetting consumer Google+*.
+Google, 8 out. 2018. Disponível em: https://blog.google/technology/safety-security/project-strobe/. Acesso em: 28 set. 2026.
+90% das sessões com menos de cinco segundos.
+
+GOOGLE+. *Meet the new Google+: A stream with style and smarts*. Vídeo, 57 s. Canal oficial no YouTube, 15 mai. 2013. Disponível em:
+https://www.youtube.com/watch?v=vF5RovO5R8w. Acesso em 28 set. 2026. Exibido no deck como fundo do slide de reserva, sem som.
+
+CBS NEWS. *Meta's Mark Zuckerberg says Threads has passed 100 million signups in 5 days*. 10 jul. 2023. Disponível em:
+https://www.cbsnews.com/news/threads-100-million-users-meta-mark-zuckerberg/. Acesso em: 28 set. 2026.
+
+MORRIS, Chris. *Mark Zuckerberg's Threads traffic is now down 70% from its peak, just 2 weeks ago*. Fortune, 21 jul. 2023,
+citando Sensor Tower via Wall Street Journal. Disponível em:
+https://fortune.com/2023/07/21/threads-traffic-down-70-percent-two-weeks-meta-musk-zuckerberg. Acesso em: 28 set. 2026.
+Estimativa de painel, sem dado da empresa.
+
+MALIK, Aisha. *Threads adds new personalization and community features as it reaches 500M monthly users*. TechCrunch,
+16 jun. 2026. Disponível em: https://techcrunch.com/2026/06/16/threads-adds-new-personalization-and-community-features-as-it-reaches-500m-monthly-users/.
+Acesso em: 28 set. 2026.
 
 META FOR BUSINESS. *Cannes Lions 2026: crossing the AI threshold*. 23 jun. 2026. Disponível em:
 https://www.facebook.com/business/news/cannes-2026-cross-ai-threshold. Acesso em: 27 set. 2026. Memória de

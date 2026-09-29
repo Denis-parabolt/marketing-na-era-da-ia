@@ -16,7 +16,7 @@ aviso.
 | Sprint de 30 dias | a publicar |
 | Leve para a sua IA | a publicar |
 
-Os slides citam marcas reais (Duolingo, Dove, Spotify, Magalu, Coca-Cola, Netflix, Jaguar) como análise
+Os slides citam marcas reais (Duolingo, Dove, Spotify, Magalu, Coca-Cola, Netflix, Google+, Threads) como análise
 editorial, com logotipo em domínio público e vídeo de canal oficial. Nada neles é peça das marcas, e a
 licença CC BY-SA 4.0 do kit cobre o texto e o desenho dos slides; logotipos e trechos de terceiros seguem
 com os seus donos.
